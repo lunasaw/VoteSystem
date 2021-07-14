@@ -7,7 +7,7 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/13 17:19
  */
 @Entity

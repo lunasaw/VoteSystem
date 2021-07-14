@@ -1,7 +1,7 @@
 package com.xmchx.vote.model;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/13 18:47
  */
 public class ChoiceVoteCount {

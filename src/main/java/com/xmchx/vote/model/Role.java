@@ -6,7 +6,7 @@ import javax.persistence.*;
 
 /**
  * 权限
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/7 11:56
  */
 @Entity

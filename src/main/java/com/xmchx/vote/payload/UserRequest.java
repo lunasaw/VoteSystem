@@ -3,7 +3,7 @@ package com.xmchx.vote.payload;
 import java.util.List;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/11 18:23
  */
 public class UserRequest {

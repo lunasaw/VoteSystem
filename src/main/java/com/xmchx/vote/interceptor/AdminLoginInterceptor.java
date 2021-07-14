@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 后台系统身份验证拦截器
  *
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/8 19:04
  */
 @Component

@@ -17,7 +17,7 @@ import java.util.Set;
 /**
  * 用户
  *
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/7 11:54
  */
 @Entity

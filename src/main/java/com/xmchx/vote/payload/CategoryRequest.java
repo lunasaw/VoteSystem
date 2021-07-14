@@ -1,7 +1,7 @@
 package com.xmchx.vote.payload;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/14 18:04
  */
 public class CategoryRequest {

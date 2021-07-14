@@ -6,7 +6,7 @@ import com.xmchx.vote.payload.PagedResponse;
 import java.util.List;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/2/1 18:53
  */
 

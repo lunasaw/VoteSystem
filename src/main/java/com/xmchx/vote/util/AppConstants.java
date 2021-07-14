@@ -1,7 +1,7 @@
 package com.xmchx.vote.util;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/9 20:46
  */
 public interface AppConstants {

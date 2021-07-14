@@ -9,7 +9,7 @@ import javax.validation.constraints.Size;
 import java.util.Date;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/13 16:47
  */
 @Entity

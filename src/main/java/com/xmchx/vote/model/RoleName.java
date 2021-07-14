@@ -1,7 +1,7 @@
 package com.xmchx.vote.model;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/7 20:20
  */
 public enum  RoleName {

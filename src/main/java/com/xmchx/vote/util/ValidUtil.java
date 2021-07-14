@@ -3,7 +3,7 @@ package com.xmchx.vote.util;
 import com.xmchx.vote.exception.BadRequestException;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/14 19:14
  */
 public class ValidUtil {

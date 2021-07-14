@@ -5,7 +5,7 @@ import com.xmchx.vote.payload.UserProfile;
 import com.xmchx.vote.payload.UserResponse;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/8 19:19
  */
 public interface UserService {

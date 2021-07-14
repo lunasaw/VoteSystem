@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 
 /**
  * Spring Security 使用此类进行身份验证
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/7 17:32
  */
 public class UserPrincipal implements UserDetails {

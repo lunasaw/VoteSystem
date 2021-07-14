@@ -4,7 +4,7 @@ import com.xmchx.vote.payload.PagedResponse;
 import com.xmchx.vote.payload.PollResponse;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/18 19:39
  */
 public interface PollService {

@@ -20,7 +20,7 @@ import java.util.List;
 import static com.xmchx.vote.util.ValidUtil.validatePageNumberAndSize;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/2/1 18:53
  */
 @Service

@@ -3,7 +3,7 @@ package com.xmchx.vote.service;
 import com.xmchx.vote.payload.PagedResponse;
 
 /**
- * @author LifeOverflow  Ex-boyfriend
+ * @author LifeOverflow  luna
  * @date 2020/1/14 19:11
  */
 public interface CategoryService {
